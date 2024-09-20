@@ -21,3 +21,8 @@ Um professor de ensino médio solicitou aos seus alunos que desenvolvessem um pr
 - Para transformar Fahrenheit para Celsius: `Tc = (5(Tf - 32))/9`
 
 - Para transformar Celsius para Fahrenheit: `Tf = (9Tc / 5) + 32`
+
+*Legenda:*
+- Tc - Temperatura em Celsius
+- Tk - Temperatura em Kelvin
+- Tf - Temperatura em CelsiFahrenheitus
