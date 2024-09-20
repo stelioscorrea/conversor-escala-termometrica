@@ -7,7 +7,7 @@ import (
 
 func main() {
 	fmt.Println(":= -------------------------------------------------------------------------- =:")
-	fmt.Println(":= THERMOMETRIC SCALE CONVERTER                                               =:")
+	fmt.Println(":= Conversos de Escalas Termométricas                                               =:")
 	fmt.Println(":= -------------------------------------------------------------------------- =:")
 
 	var Degrees float32 = 350.0

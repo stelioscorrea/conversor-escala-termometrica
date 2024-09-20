@@ -1,4 +1,4 @@
-# Thermometric Scale Converter
+# Conversos de Escalas Termométricas
 Desafio: Conversão de escalas termométricas
 
 ## Objetivo Geral
