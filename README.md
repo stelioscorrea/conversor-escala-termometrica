@@ -25,4 +25,4 @@ Um professor de ensino médio solicitou aos seus alunos que desenvolvessem um pr
 *Legenda:*
 - Tc - Temperatura em Celsius
 - Tk - Temperatura em Kelvin
-- Tf - Temperatura em CelsiFahrenheitus
+- Tf - Temperatura em Fahrenheit
